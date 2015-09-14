@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'BlayWazer/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'BlayWazer'
+  spec.name          = 'blaywazer'
   spec.version       = BlayWazer::VERSION
   spec.authors       = ["Cliff White"]
   spec.email         = ['UltraThinGhost@gmail.com']
